@@ -259,7 +259,7 @@ oosh_start()
   fi
 
   if [ -z "$LOG_LEVEL" ]; then
-    LOG_LEVEL=3
+    LOG_LEVEL=6
   fi
 
   # if [ -r /root ]; then
